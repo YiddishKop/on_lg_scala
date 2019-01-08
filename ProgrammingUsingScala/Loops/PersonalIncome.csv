@@ -1,0 +1,58 @@
+"Table 2.1. Personal Income and Its Disposition"
+"[Billions of dollars] Seasonally adjusted at annual rates" 
+"Bureau of Economic Analysis" 
+"Last Revised on: January 26, 2018 - Next Release Date February 28, 2018"
+"Line","","2015","2015","2015","2015","2016","2016","2016","2016","2017","2017","2017","2017"
+"Line","","Q1","Q2","Q3","Q4","Q1","Q2","Q3","Q4","Q1","Q2","Q3","Q4"
+"1","Personal income",15301.0,15516.1,15625.5,15769.2,15751.0,15910.1,16028.0,16025.7,16245.2,16339.6,16451.9,16630.8
+"2","    Compensation of employees",9541.6,9655.9,9730.0,9905.5,9838.6,9979.6,10081.4,10014.9,10166.3,10243.0,10336.5,10432.8
+"3","        Wages and salaries",7718.4,7813.7,7873.5,8030.0,7964.9,8090.2,8178.1,8107.8,8232.1,8295.2,8374.3,8456.7
+"4","            Private industries",6459.8,6543.3,6593.9,6736.1,6669.7,6785.2,6863.4,6792.7,6901.6,6958.4,7029.2,7104.5
+"5","            Government",1258.6,1270.4,1279.6,1293.9,1295.1,1305.0,1314.6,1315.2,1330.5,1336.8,1345.1,1352.2
+"6","        Supplements to wages and salaries",1823.3,1842.2,1856.5,1875.5,1873.7,1889.4,1903.4,1907.1,1934.2,1947.9,1962.2,1976.0
+"7","            Employer contributions for employee pension and insurance funds1",1261.7,1273.9,1284.1,1292.2,1298.6,1305.5,1313.3,1321.7,1332.7,1341.7,1350.4,1358.3
+"8","            Employer contributions for government social insurance",561.6,568.3,572.4,583.3,575.1,583.9,590.1,585.4,601.6,606.1,611.8,617.7
+"9","    Proprietors' income with inventory valuation and capital consumption adjustments",1312.8,1313.9,1323.2,1325.4,1327.6,1339.5,1346.1,1354.6,1380.2,1378.6,1381.9,1401.9
+"10","        Farm",52.0,53.0,58.7,51.0,46.8,46.7,41.4,37.8,41.9,37.0,31.9,29.7
+"11","        Nonfarm",1260.7,1260.9,1264.5,1274.3,1280.8,1292.8,1304.6,1316.7,1338.4,1341.6,1350.0,1372.1
+"12","    Rental income of persons with capital consumption adjustment",639.3,658.4,670.9,681.4,697.6,704.8,708.1,718.9,730.8,740.3,747.2,759.7
+"13","    Personal income receipts on assets",2350.2,2406.9,2413.8,2377.5,2374.9,2371.4,2373.2,2391.6,2420.1,2434.5,2433.9,2476.5
+"14","        Personal interest income",1303.4,1385.0,1403.2,1377.5,1397.4,1408.4,1416.9,1438.5,1476.6,1465.1,1460.6,1501.4
+"15","        Personal dividend income",1046.8,1021.9,1010.6,1000.0,977.5,962.9,956.4,953.0,943.5,969.4,973.2,975.1
+"16","    Personal current transfer receipts",2645.4,2682.7,2698.0,2711.4,2739.9,2760.2,2777.4,2795.9,2831.9,2836.9,2858.4,2878.9
+"17","        Government social benefits to persons",2594.9,2630.3,2643.9,2656.0,2683.4,2703.0,2719.7,2737.9,2773.4,2777.8,2798.5,2818.2
+"18","            Social security2",861.6,869.4,874.5,881.6,886.2,894.0,899.7,906.0,916.1,922.8,930.0,935.5
+"19","            Medicare3",622.3,630.7,637.9,643.8,648.8,653.5,658.2,662.9,667.4,671.5,676.4,681.9
+"20","            Medicaid",524.0,538.2,540.5,541.4,549.4,558.0,566.8,577.8,581.4,577.4,583.4,589.1
+"21","            Unemployment insurance",32.8,31.9,32.1,31.9,32.5,31.9,31.6,30.7,30.2,28.6,28.5,27.8
+"22","            Veterans' benefits",88.2,89.7,90.0,91.4,91.6,92.7,92.9,94.0,95.5,98.0,99.2,100.2
+"23","            Other",466.1,470.4,468.9,465.8,474.8,472.8,470.4,466.5,482.8,479.4,481.0,483.7
+"24","        Other current transfer receipts, from business (net)",50.5,52.4,54.1,55.4,56.5,57.3,57.8,58.0,58.4,59.2,59.9,60.7
+"25","    Less: Contributions for government social insurance, domestic",1188.3,1201.7,1210.3,1231.9,1227.5,1245.4,1258.2,1250.2,1284.1,1293.8,1306.0,1318.9
+"26","Less: Personal current taxes",1903.4,1934.1,1937.7,1976.5,1928.9,1950.7,1983.8,1977.2,2018.8,2007.9,2046.4,2086.3
+"27","Equals: Disposable personal income",13397.6,13582.0,13687.8,13792.7,13822.1,13959.4,14044.3,14048.5,14226.4,14331.6,14405.5,14544.4
+"28","Less: Personal outlays",12587.9,12737.7,12865.8,12955.2,13034.3,13214.2,13366.6,13537.0,13671.8,13805.9,13927.2,14160.0
+"29","    Personal consumption expenditures",12142.2,12284.2,12407.8,12494.9,12571.5,12755.0,12899.4,13056.9,13191.6,13307.0,13429.1,13647.1
+"30","    Personal interest payments4",262.2,267.6,271.2,273.9,273.4,276.3,279.3,284.4,287.4,300.7,301.3,312.3
+"31","    Personal current transfer payments",183.5,185.9,186.9,186.4,189.4,183.0,187.9,195.6,192.9,198.2,196.7,200.6
+"32","        To government",105.0,105.4,105.7,105.7,107.7,108.1,109.0,110.6,112.3,114.1,115.5,116.5
+"33","        To the rest of the world (net)",78.6,80.4,81.2,80.7,81.7,74.9,78.9,85.0,80.6,84.1,81.2,84.1
+"34","Equals: Personal saving",809.7,844.4,822.0,837.5,787.8,745.2,677.7,511.5,554.6,525.7,478.3,384.4
+"35","    Personal saving as a percentage of disposable personal income",6.0,6.2,6.0,6.1,5.7,5.3,4.8,3.6,3.9,3.7,3.3,2.6
+"","Addenda:","","","","","","","","","","","",""
+"36","    Personal income excluding current transfer receipts, billions of chained (2009) dollars5",11616.6,11729.9,11778.1,11891.9,11830.4,11894.9,11934.4,11857.1,11955.7,12027.2,12062.4,12120.4
+"","    Disposable personal income:","","","","","","","","","","","",""
+"37","        Total, billions of chained (2009) dollars5",12297.6,12414.2,12470.8,12561.2,12567.7,12627.2,12649.2,12590.8,12680.4,12765.6,12783.0,12819.0
+"","        Per capita:","","","","","","","","","","","",""
+"38","            Current dollars",41811,42315,42559,42799,42820,43174,43352,43280,43759,44011,44151,44491
+"39","            Chained (2009) dollars",38378,38677,38775,38977,38934,39054,39045,38790,39004,39202,39178,39213
+"40","    Population (midperiod, thousands)",320431,320972,321620,322268,322793,323326,323962,324593,325108,325640,326276,326907
+"","    Percent change from preceding period:","","","","","","","","","","","",""
+"41","        Disposable personal income, current dollars",2.6,5.6,3.2,3.1,0.9,4.0,2.5,0.1,5.2,3.0,2.1,3.9
+"42","        Disposable personal income, chained (2009) dollars",4.3,3.8,1.8,2.9,0.2,1.9,0.7,-1.8,2.9,2.7,0.5,1.1
+"Legend / Footnotes:"
+"1. Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period."
+"2. Social security benefits include old-age, survivors, and disability insurance benefits that are distributed from the federal old-age and survivors insurance trust fund and the disability insurance trust fund."
+"3. Medicare benefits include hospital and supplementary medical insurance benefits that are distributed from the federal hospital insurance trust fund and the supplementary medical insurance trust fund."
+"4. Consists of nonmortgage interest paid by households."
+"5. The current-dollar measure is deflated by the implicit price deflator for personal consumption expenditures."

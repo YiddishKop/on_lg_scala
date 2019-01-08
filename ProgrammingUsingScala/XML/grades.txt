@@ -1,0 +1,4 @@
+Name, Quiz 1, Quiz 2, Test 1
+Mark Lewis, 97, 78, 100
+John Doe, 65, 92, 72
+Jane Doe, 99, 89, 91
